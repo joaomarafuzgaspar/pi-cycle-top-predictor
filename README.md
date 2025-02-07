@@ -48,3 +48,6 @@ This project is for educational purposes only. The predictions should not be use
 
 ## License
 [Add your chosen license here]
+
+## Test section
+This is a test section.
